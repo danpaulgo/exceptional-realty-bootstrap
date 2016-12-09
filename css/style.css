@@ -271,6 +271,13 @@ section {
   background: white;
 }
 
+#carousel-example-generic{
+  text-align: center;
+  margin: 0 auto;
+  min-height: 500px;
+  width: 70%;
+}
+
 /*////////// DETAILS //////////*/
 
 #details {
